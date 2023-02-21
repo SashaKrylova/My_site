@@ -113,6 +113,8 @@ hr {
 
 .field {
     margin-top:-230px;
+    max-width: 100%;
+    height: auto;
     }
 
 
